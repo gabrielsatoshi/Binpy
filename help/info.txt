@@ -1,0 +1,21 @@
+++++++++++BINPY INFO++++++++++
+
+---What is the Binpy?---
+Binpy is a tool that you can use during a online match 
+he was made for this pruporse, basicaly binpy is a SPAM MESSAGE.
+
+---How i can use Binpy?---
+Theres a tutorial in the READ.ME but, i can explain here.
+First of all you have to define a hot key and a stop key, 
+after that, you have so write the text that you want to SPAM, and click in "RUN"
+now you just have to press your hot key a lot of times, when you want stop just 
+press your stop key in any local, enjoy :)
+
+---Why Binpy?---
+Bruh, i just wanted spam in league of legends, so
+i decided create binpy to spam and cleam the chat all the time that i want,
+yeah maybe im a troll :)
+
+---Who is Binpy father?---
+Well, its me, l1nu$ , im a information security enjoyer and i code for fun :)
+
